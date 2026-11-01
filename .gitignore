@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+00_COMMON/cache/
+00_COMMON/results/
+T1_ThresholdConsistentPerclos/results/
+T1_ThresholdConsistentPerclos/logs/
+T1_ThresholdConsistentPerclos/figures/

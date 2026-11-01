@@ -1,0 +1,10 @@
+{
+ "step": "stride4",
+ "stride": 4,
+ "drop": [],
+ "projected_h": 3.53,
+ "fold1_seconds": 343.4,
+ "gpu_elapsed_h": 0.48,
+ "remaining_h": 4.02,
+ "decided": "2026-10-28T19:55:32"
+}
